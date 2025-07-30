@@ -2,6 +2,6 @@
 const name = "Liza";
 const city = "New York";
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
+const image = "https://via.placeholder.com/150";
 
 export { name, city, image };
